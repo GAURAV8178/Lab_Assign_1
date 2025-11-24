@@ -1,4 +1,4 @@
-# LAB_ASSIGN-_JAVA_1
+# Lab_Assign_1
 
 📘 Student Record System – README
 📌 Overview
@@ -88,4 +88,4 @@ java StudentRecordSystem
 
 
 <img width="527" height="628" alt="image" src="https://github.com/user-attachments/assets/929fe034-55a7-459f-b052-b42fd01aeb6b" />
-# Lab_Assign_1
+
